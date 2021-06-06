@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+apicache-py3/
+pywikibot.lwp
+throttle.ctrl
+*.json
